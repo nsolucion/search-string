@@ -1,0 +1,36 @@
+{
+  "name": "search-string",
+  "version": "1.0.0",
+  "description": "Package to search for a string or part of it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsolucion/search-string.git"
+  },
+  "keywords": [
+    "search",
+    "string",
+    "search",
+    "part",
+    "of",
+    "string",
+    "typescript",
+    "search",
+    "string",
+    "angular",
+    "search",
+    "string",
+    "javascript",
+    "search",
+    "string"
+  ],
+  "author": "Erick Reyes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nsolucion/search-string/issues"
+  },
+  "homepage": "https://github.com/nsolucion/search-string#readme"
+}
